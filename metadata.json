@@ -1,0 +1,6 @@
+{
+  "name": "Campus Connect Admin",
+  "description": "Campus Connect Admin Dashboard for managing student activity approvals, attendance tracking, live campus bus route management, and marks entry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
